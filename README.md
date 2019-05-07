@@ -1,4 +1,4 @@
-# Zuino_Uno
+# Zuino M Uno Microcontroller
 
 ![](uno.png)
 
